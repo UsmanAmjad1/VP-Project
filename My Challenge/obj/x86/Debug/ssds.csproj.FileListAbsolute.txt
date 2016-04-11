@@ -1,0 +1,14 @@
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\bin\Debug\ssds.exe
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\bin\Debug\ssds.pdb
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\obj\x86\Debug\ssds.Form1.resources
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\obj\x86\Debug\ssds.Properties.Resources.resources
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\obj\x86\Debug\ssds.csproj.GenerateResource.Cache
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\obj\x86\Debug\ssds.exe
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\ssds\obj\x86\Debug\ssds.pdb
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.exe
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.pdb
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\bin\Debug\ssds.exe
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\bin\Debug\ssds.pdb
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.Form1.resources
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.Properties.Resources.resources
+C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.csproj.GenerateResource.Cache
