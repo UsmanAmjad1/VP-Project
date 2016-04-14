@@ -97,6 +97,7 @@
             this.keyC1.Size = new System.Drawing.Size(33, 190);
             this.keyC1.TabIndex = 14;
             this.keyC1.UseVisualStyleBackColor = false;
+            this.keyC1.Click += new System.EventHandler(this.keyC1_Click);
             // 
             // button1
             // 
@@ -124,6 +125,7 @@
             this.keyC1M.Size = new System.Drawing.Size(28, 144);
             this.keyC1M.TabIndex = 17;
             this.keyC1M.UseVisualStyleBackColor = false;
+            this.keyC1M.Click += new System.EventHandler(this.keyC1M_Click);
             // 
             // button2
             // 
