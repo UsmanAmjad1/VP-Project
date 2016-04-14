@@ -82,7 +82,6 @@
             this.pianoImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pianoImage.TabIndex = 6;
             this.pianoImage.TabStop = false;
-            this.pianoImage.Click += new System.EventHandler(this.pianoImage_Click);
             // 
             // keyC1
             // 
@@ -125,7 +124,6 @@
             this.keyC1M.Size = new System.Drawing.Size(28, 144);
             this.keyC1M.TabIndex = 17;
             this.keyC1M.UseVisualStyleBackColor = false;
-            this.keyC1M.Click += new System.EventHandler(this.keyC1M_Click);
             // 
             // button2
             // 
@@ -140,6 +138,7 @@
             this.button2.Size = new System.Drawing.Size(36, 190);
             this.button2.TabIndex = 18;
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -222,6 +221,7 @@
             this.button8.Size = new System.Drawing.Size(36, 190);
             this.button8.TabIndex = 24;
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -425,6 +425,7 @@
             this.button23.Size = new System.Drawing.Size(36, 190);
             this.button23.TabIndex = 39;
             this.button23.UseVisualStyleBackColor = false;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
             // 
             // button24
             // 

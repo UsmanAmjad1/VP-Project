@@ -7,8 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Media;
-using NAudio.wave;
-using NAudio.Lame;
 
 namespace ssds
 {
@@ -19,26 +17,26 @@ namespace ssds
             InitializeComponent();
         }
 
-        private void RECORDING_Click(object sender, EventArgs e)
+        
+        private void keyC1_Click(object sender, EventArgs e)
         {
-            if (notePiano.Checked)
-            {
-            SoundPlayer keySound = new SoundPlayer(Notes.c1);           
-            keySound.Play();      
-            }
-
-            if (noteBass.Checked)
-            {
-                SoundPlayer keySound = new SoundPlayer(Notes.double_bass_C1_1_forte_arco_normal);
-                keySound.Play();            
-            }
-
-            if (noteOrgan.Checked)
-            {
-                SoundPlayer keySound = new SoundPlayer(Notes.o1);
-                keySound.Play();
-            }
+        
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+        
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+        
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+        
+        
 
         }
 
