@@ -39,6 +39,22 @@ namespace ssds
 
         }
 
+        private void button33_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button52_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b48Last.wav");
+            mysound.Play();
+        }
+
         
         
  
