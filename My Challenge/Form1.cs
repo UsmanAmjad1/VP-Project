@@ -19,41 +19,103 @@ namespace ssds
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b36.wav");
+            mysound.Play();
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button17_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button15_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button33_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button52_Click(object sender, EventArgs e)
-        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b48Last.wav");
+            mysound.Play();
 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b48Last.wav");
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#26.wav");
             mysound.Play();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#38.wav");
+            mysound.Play();
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\C25Start.wav");
+            mysound.Play();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c37.wav");
+            mysound.Play();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#28.wav");
+            mysound.Play();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#40.wav");
+            mysound.Play();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\D27.wav");
+            mysound.Play();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d39.wav");
+            mysound.Play();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\E29.wav");
+            mysound.Play();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\e41.wav");
+            mysound.Play();
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f#31.wav");
+            mysound.Play();
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f#43.wav");
+            mysound.Play();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\F30.wav");
+            mysound.Play();
+
+            SoundPlayer mysound2 = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f42.wav");
+            mysound2.Play();
+        }
+
+        
 
         
         
