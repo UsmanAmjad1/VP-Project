@@ -111,8 +111,31 @@ namespace ssds
             SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\F30.wav");
             mysound.Play();
 
-            SoundPlayer mysound2 = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f42.wav");
-            mysound2.Play();
+            
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f42.wav");
+            mysound.Play();
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g#33.wav");
+            mysound.Play();
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g#45.wav");
+            mysound.Play();
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g44.wav");
+            mysound.Play();
         }
 
         
