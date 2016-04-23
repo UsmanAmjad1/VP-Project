@@ -33,11 +33,12 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Black;
-            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button1.Location = new System.Drawing.Point(302, 70);
+            this.button1.BackColor = System.Drawing.Color.Maroon;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.button1.Location = new System.Drawing.Point(0, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(234, 62);
+            this.button1.Size = new System.Drawing.Size(161, 136);
             this.button1.TabIndex = 0;
             this.button1.Text = "Start Playing";
             this.button1.UseVisualStyleBackColor = false;
