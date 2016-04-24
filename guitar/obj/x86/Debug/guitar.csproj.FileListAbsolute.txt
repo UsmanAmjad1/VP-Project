@@ -1,0 +1,9 @@
+D:\VP-Project\guitar\bin\Debug\guitar.exe
+D:\VP-Project\guitar\bin\Debug\guitar.pdb
+D:\VP-Project\guitar\obj\x86\Debug\guitar.csprojResolveAssemblyReference.cache
+D:\VP-Project\guitar\obj\x86\Debug\guitar.Form1.resources
+D:\VP-Project\guitar\obj\x86\Debug\guitar.Properties.Resources.resources
+D:\VP-Project\guitar\obj\x86\Debug\guitar.csproj.GenerateResource.Cache
+D:\VP-Project\guitar\obj\x86\Debug\guitar.exe
+D:\VP-Project\guitar\obj\x86\Debug\guitar.pdb
+D:\VP-Project\guitar\obj\x86\Debug\guitar.Form2.resources
