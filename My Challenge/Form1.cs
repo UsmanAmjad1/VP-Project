@@ -21,7 +21,7 @@ namespace ssds
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c1.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c1);
             mysound.Play();
         }
 

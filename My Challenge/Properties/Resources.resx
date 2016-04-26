@@ -118,356 +118,86 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="abc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\abc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="a10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a22.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="A34" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a34.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a46" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a46.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a58" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a58.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a#11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a#23.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a_35" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a#35.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a#47.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="a_59" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a#59.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="b12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="b24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b24.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="b36" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b36.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="b48Last" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b48Last.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="b60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b60.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c13.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="C25Start" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\C25Start.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c37" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c37.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c49" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c49.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c61" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c61.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c#14.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c#2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c_26" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c#26.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c_38" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c#38.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="c_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c#50.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="d15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d15.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_A3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="D27" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\D27.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="d3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="d39" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d39.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="d51" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d51.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A3_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A3_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_A3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_A3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_As2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_As2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_As2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_As2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_As3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_As3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_As3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_As3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B1_15_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B1_15_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_B3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_B3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_bs4_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_bs4_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_bs4_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_bs4_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_bs5_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_bs5_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_bs5_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_bs5_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C2_05_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C2_05_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C3_1_mezzo_piano_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C3_1_mezzo-piano_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_C6_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_C6_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Cs4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Cs4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Cs4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Cs4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D2_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D2_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_D4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_D4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Ds4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Ds4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o38" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o38.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="double_bass_Ds4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\double-bass_Ds4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o30_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="double_bass_E2_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E2_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o17.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="c_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c#14.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E3_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E3_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="g_45" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g#45.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_D4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_E4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_E4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_As2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_As2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="a_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a#23.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="f_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f#31.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F2_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F2_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o30_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="c_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c#50.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F3_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F3_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o43.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="double_bass_F3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_F4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_F4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_F4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Fs4_05_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Fs4_05_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Fs4_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Fs4_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G2_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G2_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G3_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G3_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_G3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_G3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Gs1_025_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Gs1_025_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Gs1_025_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Gs1_025_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="double_bass_Gs2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\double-bass_Gs2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="d51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d51.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="double_bass_Gs2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\double-bass_Gs2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="d_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d#16.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="b36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b36.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="d_28" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d#28.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="c_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c#2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_A1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_A2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o19.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="d_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\d#4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="d_40" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d#40.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="d_52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\d#52.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="e17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e17.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="E29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\E29.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="e41" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e41.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="e5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="e53" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e53.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f18.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="F30" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\F30.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f42" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f42.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o21.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="f54" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\f54.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -475,232 +205,511 @@
   <data name="f6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\f6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="f_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f#19.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f#31.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f_43" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f#43.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f_55" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f#55.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="f_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f#7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g20.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="G32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\G32.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g44" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g44.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g56" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g56.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g#21.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g_33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g#33.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g_45" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g#45.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g_57" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g#57.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="g_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\g#9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o13.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o14.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o15.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o16.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o17.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o18.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o19.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o20.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o21.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o22.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o23" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o23.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o24.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o25.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o26" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o26.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o27" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o27.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o28" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o28.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o29.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="o30_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o30-9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_Gs1_025_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Gs1_025_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="o31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\o31.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o32.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o28.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o33.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_A2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o34" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o34.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_bs4_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_bs4_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o35" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o35.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="C25Start" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C25Start.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o36" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o36.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="a58" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a58.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o37" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o37.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_As2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_As2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o38" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o38.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o22.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o39" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o39.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="e41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e41.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="f_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f#7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o40" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o40.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="b60" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b60.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o41" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o41.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_D1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o42" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o42.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="c37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c37.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o43" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o43.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="a_35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a#35.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g_33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g#33.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="o44" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\o44.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o45" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o45.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_E2_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E2_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o46" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o46.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="c_26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c#26.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o47" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o47.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_B2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o49" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o49.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o16.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_Gs2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Gs2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o50.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="double_bass_C6_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C6_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="o40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o40.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="o7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="f42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f42.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="o8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\o8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="c13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c13.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o46" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o46.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d#16.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="f_43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f#43.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Gs1_025_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Gs1_025_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o37.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_B1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="f_55" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f#55.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E3_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E3_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Fs4_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Fs4_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o29.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g#9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o35.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="E29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\E29.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_B3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C2_05_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C2_05_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C3_1_mezzo_piano_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C3_1_mezzo-piano_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="b12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d39.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_bs5_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_bs5_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g20.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="c49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c49.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="f_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f#19.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="b24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b24.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g_57" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g#57.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o42.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o47.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C1_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C1_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o36.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Ds4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Ds4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a46" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a46.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o23.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_B1_15_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B1_15_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="e5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o34.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g56" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g56.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o50.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a_59" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a#59.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o13.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="e53" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e53.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d15.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a22.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="F30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F30.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_A1_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A1_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F2_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F2_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o26.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="c61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c61.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d_52" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d#52.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="o7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_A3_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_A3_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G2_1_mezzo_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G2_1_mezzo-forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="f18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f18.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_bs4_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_bs4_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="479937" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\479937.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="o33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o33.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o24.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="b48Last" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b48Last.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_As3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_As3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o32.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="double_bass_F4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o20.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="o9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\o9.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g44" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g44.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o12.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_B2_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B2_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d_40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d#40.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_bs5_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_bs5_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o39.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Cs4_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Cs4_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_E2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_E2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_C2_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_C2_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o27.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="A34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a34.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o14.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o18.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o15.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Cs4_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Cs4_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o30_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o30-11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\G32.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="c_38" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c#38.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_Fs4_05_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_Fs4_05_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o25.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="abc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="o3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_As3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_As3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="d_28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d#28.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F3_15_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F3_15_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o41.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_G3_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_G3_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="e17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e17.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a#11.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o49.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o45" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o45.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D3_1_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D3_1_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_F1_15_forte_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_F1_15_forte_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D2_05_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D2_05_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="g_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g#21.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="a_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a#47.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_B3_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_B3_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="double_bass_D1_1_fortissimo_arco_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\double-bass_D1_1_fortissimo_arco-normal.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="o10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dffg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dffg.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
