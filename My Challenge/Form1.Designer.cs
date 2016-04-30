@@ -81,6 +81,7 @@
             this.button51 = new System.Windows.Forms.Button();
             this.button52 = new System.Windows.Forms.Button();
             this.button53 = new System.Windows.Forms.Button();
+            this.button54 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -676,12 +677,26 @@
             this.button53.UseVisualStyleBackColor = false;
             this.button53.Click += new System.EventHandler(this.button53_Click);
             // 
+            // button54
+            // 
+            this.button54.BackColor = System.Drawing.Color.Black;
+            this.button54.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button54.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.button54.Location = new System.Drawing.Point(1245, 12);
+            this.button54.Name = "button54";
+            this.button54.Size = new System.Drawing.Size(75, 23);
+            this.button54.TabIndex = 109;
+            this.button54.Text = "Exit";
+            this.button54.UseVisualStyleBackColor = false;
+            this.button54.Click += new System.EventHandler(this.button54_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Maroon;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1354, 301);
+            this.Controls.Add(this.button54);
             this.Controls.Add(this.button53);
             this.Controls.Add(this.button52);
             this.Controls.Add(this.button51);
@@ -798,6 +813,7 @@
         private System.Windows.Forms.Button button51;
         private System.Windows.Forms.Button button52;
         private System.Windows.Forms.Button button53;
+        private System.Windows.Forms.Button button54;
 
     }
 }

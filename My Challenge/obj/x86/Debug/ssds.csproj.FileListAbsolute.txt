@@ -21,3 +21,4 @@ D:\VP-Project\My Challenge\obj\x86\Debug\ssds.pdb
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.csprojResolveAssemblyReference.cache
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form1.resources
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.MainForm.resources
+D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form2.resources

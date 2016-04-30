@@ -21,94 +21,94 @@ namespace ssds
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c1);
+            SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
             mysound.Play();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d3.wav");
+            SoundPlayer mysound = new SoundPlayer(Properties.Resources.d3);
             mysound.Play();
 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#2.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_2);
             mysound.Play();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\e5.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e5);
             mysound.Play();
 
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#4.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_4);
             mysound.Play();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f6.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f6);
             mysound.Play();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g8.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g8);
             mysound.Play();
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a10.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a10);
             mysound.Play();
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b12.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b12);
             mysound.Play();
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f#7.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_7);
             mysound.Play();
         }
 
         private void button11_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g#9.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_9);
             mysound.Play();
         }
 
         private void button12_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a#11.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_11);
             mysound.Play();
 
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c13.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c13);
             mysound.Play();
         }
 
         private void button14_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d15.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d15);
             mysound.Play();
         }
 
         private void button15_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\e17.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e17);
             mysound.Play();
 
             
@@ -116,120 +116,120 @@ namespace ssds
 
         private void button16_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f18.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f18);
             mysound.Play();
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g20.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g20);
             mysound.Play();
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#14.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_14);
             mysound.Play();
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#16.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_16);
             mysound.Play();
         }
 
         private void button20_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f#19.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_19);
             mysound.Play();
         }
 
         private void button21_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a22.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a22);
             mysound.Play();
 
         }
 
         private void button22_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b24.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b24);
             mysound.Play();
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\C25Start.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C25Start);
             mysound.Play();
 
         }
 
         private void button24_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\D27.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.D27);
             mysound.Play();
         }
 
         private void button25_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\E29.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E29);
             mysound.Play();
 
         }
 
         private void button26_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g#21.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_21);
             mysound.Play();
         }
 
         private void button27_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a#23.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_23);
             mysound.Play();
         }
 
         private void button28_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#26.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_26);
             mysound.Play();
         }
 
         private void button29_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#28.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_28);
             mysound.Play();
         }
 
         private void button30_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\F30.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F30);
             mysound.Play();
         }
 
         private void button31_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\G32.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.G32);
             mysound.Play();
 
         }
 
         private void button32_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a34.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.A34);
             mysound.Play();
         }
 
         private void button33_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\b36.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b36);
             mysound.Play();
 
         }
 
         private void button34_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c37.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c37);
             mysound.Play();
 
 
@@ -237,105 +237,125 @@ namespace ssds
 
         private void button35_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d39.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d39);
             mysound.Play();
         }
 
         private void button36_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\e41.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e41);
             mysound.Play();
         }
 
         private void button37_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\f#31.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_31);
             mysound.Play();
         }
 
         private void button38_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\g#33.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_33);
             mysound.Play();
 
         }
 
         private void button39_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\a#35.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_35);
             mysound.Play();
         }
 
         private void button40_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\c#38.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_38);
             mysound.Play();
         }
 
         private void button41_Click(object sender, EventArgs e)
         {
-            SoundPlayer mysound = new SoundPlayer(@"D:\VP-Project\My Challenge\Resources\d#40.wav");
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_40);
             mysound.Play();
         }
 
         private void button42_Click(object sender, EventArgs e)
         {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f42);
+            mysound.Play();
 
         }
 
         private void button43_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g44);
+            mysound.Play();
         }
 
         private void button44_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a46);
+            mysound.Play();
         }
 
         private void button45_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b48Last);
+            mysound.Play();
         }
 
         private void button46_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c49);
+            mysound.Play();
         }
 
         private void button47_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d51);
+            mysound.Play();
         }
 
         private void button48_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e53);
+            mysound.Play();
         }
 
         private void button49_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_43);
+            mysound.Play();
         }
 
         private void button50_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_45);
+            mysound.Play();
         }
 
         private void button51_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_47);
+            mysound.Play();
         }
 
         private void button52_Click(object sender, EventArgs e)
         {
-
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_50);
+            mysound.Play();
         }
 
         private void button53_Click(object sender, EventArgs e)
         {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_52);
+            mysound.Play();
+        }
 
+        private void button54_Click(object sender, EventArgs e)
+        {
+            MainForm frm = new MainForm();
+            frm.Show();
+            this.Close();
         }
 
         
