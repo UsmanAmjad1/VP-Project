@@ -10,6 +10,7 @@ using System.Media;
 
 
 
+
 namespace ssds
 {
     public partial class Form1 : Form
@@ -23,6 +24,7 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
             mysound.Play();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -148,7 +150,7 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a22);
             mysound.Play();
-
+           
         }
 
         private void button22_Click(object sender, EventArgs e)
@@ -349,6 +351,7 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_52);
             mysound.Play();
+           
         }
 
         private void button54_Click(object sender, EventArgs e)
