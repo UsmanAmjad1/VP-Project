@@ -14,11 +14,10 @@ C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\
 C:\Users\nommy\Documents\Visual Studio 2010\Projects\My Challenge\obj\x86\Debug\ssds.csproj.GenerateResource.Cache
 D:\VP-Project\My Challenge\bin\Debug\ssds.exe
 D:\VP-Project\My Challenge\bin\Debug\ssds.pdb
+D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form1.resources
+D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form2.resources
+D:\VP-Project\My Challenge\obj\x86\Debug\ssds.MainForm.resources
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Properties.Resources.resources
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.csproj.GenerateResource.Cache
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.exe
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.pdb
-D:\VP-Project\My Challenge\obj\x86\Debug\ssds.csprojResolveAssemblyReference.cache
-D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form1.resources
-D:\VP-Project\My Challenge\obj\x86\Debug\ssds.MainForm.resources
-D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Form2.resources

@@ -11,6 +11,9 @@ using System.Media;
 
 
 
+
+
+
 namespace ssds
 {
     public partial class Form1 : Form
@@ -24,7 +27,9 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
             mysound.Play();
-            
+
+
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -113,7 +118,7 @@ namespace ssds
             SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e17);
             mysound.Play();
 
-            
+
         }
 
         private void button16_Click(object sender, EventArgs e)
@@ -150,7 +155,7 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a22);
             mysound.Play();
-           
+
         }
 
         private void button22_Click(object sender, EventArgs e)
@@ -351,7 +356,7 @@ namespace ssds
         {
             SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_52);
             mysound.Play();
-           
+
         }
 
         private void button54_Click(object sender, EventArgs e)
@@ -361,11 +366,251 @@ namespace ssds
             this.Close();
         }
 
-        
+        private void button55_KeyPress(object sender, KeyPressEventArgs e)
+        {
+           
+            if (e.KeyChar == (char)Keys.A)
+                {
+                    SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
+                    mysound.Play();
+                }
+            if (e.KeyChar == (char)Keys.B)
+            {
+                SoundPlayer mysound = new SoundPlayer(Properties.Resources.d3);
+                mysound.Play();
+
+            }
+
+            if (e.KeyChar == (char)Keys.C)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_2);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.D)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e5);
+                mysound.Play();
+
+            }
+
+           
+
+            if (e.KeyChar == (char)Keys.E)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f6);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.F)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g8);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.G)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a10);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.H)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b12);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.I)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_7);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.J)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_9);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.K)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_11);
+                mysound.Play();
+
+            }
+
+            if (e.KeyChar == (char)Keys.L)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c13);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.M)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d15);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.N)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.e17);
+                mysound.Play();
+
+
+            }
+
+            if (e.KeyChar == (char)Keys.O)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f18);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.P)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g20);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.Q)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_14);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.R)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.d_16);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.S)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.f_19);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.T)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a22);
+                mysound.Play();
+
+            }
+
+            if (e.KeyChar == (char)Keys.U)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.b24);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.V)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C25Start);
+                mysound.Play();
+
+            }
+
+            if (e.KeyChar == (char)Keys.W)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.D27);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.X)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E29);
+                mysound.Play();
+
+            }
+            if (e.KeyChar == (char)Keys.Y)
+            {
+
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.g_21);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.Z)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.a_23);
+                mysound.Play();
+            }
+
+            if (e.KeyChar == (char)Keys.Space)
+            {
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_26);
+                mysound.Play();
+
+                
+            }
+
+        }
+
+       
+
+
+
+
+
+
+
+
 
         
+
+    }
+
+}
+
         
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+    
+      
+    
+
+    
+        
+    
+        
+  
  
        
-    }
-}
+    
+

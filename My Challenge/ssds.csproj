@@ -487,6 +487,66 @@
   <ItemGroup>
     <None Include="Resources\c#2.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\E.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\E.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F1 %28online-audio-converter.com%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FS.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GS.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GS.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CS.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DS.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FS2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GS2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AS2.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
