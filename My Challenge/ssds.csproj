@@ -547,6 +547,36 @@
   <ItemGroup>
     <None Include="Resources\AS2.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CS3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DS2 .wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DS3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FS3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GS3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BS2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CS2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DS4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F61.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F71.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

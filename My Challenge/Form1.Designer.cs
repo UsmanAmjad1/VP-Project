@@ -82,6 +82,7 @@
             this.button52 = new System.Windows.Forms.Button();
             this.button53 = new System.Windows.Forms.Button();
             this.button54 = new System.Windows.Forms.Button();
+            this.button55 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -690,12 +691,24 @@
             this.button54.UseVisualStyleBackColor = false;
             this.button54.Click += new System.EventHandler(this.button54_Click);
             // 
+            // button55
+            // 
+            this.button55.Location = new System.Drawing.Point(215, 11);
+            this.button55.Name = "button55";
+            this.button55.Size = new System.Drawing.Size(75, 23);
+            this.button55.TabIndex = 110;
+            this.button55.Text = "button55";
+            this.button55.UseVisualStyleBackColor = true;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
+            this.button55.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.button55_KeyPress_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1354, 301);
+            this.Controls.Add(this.button55);
             this.Controls.Add(this.button54);
             this.Controls.Add(this.button53);
             this.Controls.Add(this.button52);
@@ -814,6 +827,7 @@
         private System.Windows.Forms.Button button52;
         private System.Windows.Forms.Button button53;
         private System.Windows.Forms.Button button54;
+        private System.Windows.Forms.Button button55;
 
     }
 }

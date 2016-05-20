@@ -254,6 +254,15 @@ namespace ssds.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        internal static System.IO.UnmanagedMemoryStream BS2 {
+            get {
+                return ResourceManager.GetStream("BS2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         internal static System.IO.UnmanagedMemoryStream C {
             get {
                 return ResourceManager.GetStream("C", resourceCulture);
@@ -365,6 +374,24 @@ namespace ssds.Properties {
         internal static System.IO.UnmanagedMemoryStream CS {
             get {
                 return ResourceManager.GetStream("CS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream CS2 {
+            get {
+                return ResourceManager.GetStream("CS2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream CS3 {
+            get {
+                return ResourceManager.GetStream("CS3", resourceCulture);
             }
         }
         
@@ -483,6 +510,33 @@ namespace ssds.Properties {
         internal static System.IO.UnmanagedMemoryStream DS {
             get {
                 return ResourceManager.GetStream("DS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream DS2 {
+            get {
+                return ResourceManager.GetStream("DS2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream DS3 {
+            get {
+                return ResourceManager.GetStream("DS3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream DS4 {
+            get {
+                return ResourceManager.GetStream("DS4", resourceCulture);
             }
         }
         
@@ -642,6 +696,24 @@ namespace ssds.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        internal static System.IO.UnmanagedMemoryStream F61 {
+            get {
+                return ResourceManager.GetStream("F61", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream F71 {
+            get {
+                return ResourceManager.GetStream("F71", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         internal static System.IO.UnmanagedMemoryStream FS {
             get {
                 return ResourceManager.GetStream("FS", resourceCulture);
@@ -654,6 +726,15 @@ namespace ssds.Properties {
         internal static System.IO.UnmanagedMemoryStream FS2 {
             get {
                 return ResourceManager.GetStream("FS2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream FS3 {
+            get {
+                return ResourceManager.GetStream("FS3", resourceCulture);
             }
         }
         
@@ -771,6 +852,15 @@ namespace ssds.Properties {
         internal static System.IO.UnmanagedMemoryStream GS2 {
             get {
                 return ResourceManager.GetStream("GS2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream GS3 {
+            get {
+                return ResourceManager.GetStream("GS3", resourceCulture);
             }
         }
         
@@ -1374,7 +1464,7 @@ namespace ssds.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F);.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string String {
             get {
@@ -1383,11 +1473,38 @@ namespace ssds.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to mysound.Play();.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string String1 {
             get {
                 return ResourceManager.GetString("String1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string String2 {
+            get {
+                return ResourceManager.GetString("String2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string String3 {
+            get {
+                return ResourceManager.GetString("String3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string String4 {
+            get {
+                return ResourceManager.GetString("String4", resourceCulture);
             }
         }
     }

@@ -554,9 +554,48 @@
     <value>..\Resources\GS2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="String" xml:space="preserve">
-    <value>SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F);</value>
+    <value />
   </data>
   <data name="String1" xml:space="preserve">
-    <value>mysound.Play();</value>
+    <value />
+  </data>
+  <data name="BS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BS2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CS2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CS3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CS3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DS2 .wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DS3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DS3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DS4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DS4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="F61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F61.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="F71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F71.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="FS3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FS3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="GS3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GS3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String4" xml:space="preserve">
+    <value />
   </data>
 </root>
