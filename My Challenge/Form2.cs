@@ -589,6 +589,245 @@ namespace ssds
             mysound.Play();
         }
 
+        private void lineShape2_MouseHover(object sender, EventArgs e)
+        {
+
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C);
+            mysound.Play();
+        }
+
+        private void lineShape4_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.G);
+            mysound.Play();
+        }
+
+        private void lineShape5_MouseHover(object sender, EventArgs e)
+        {
+
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.GS);
+            mysound.Play();
+        }
+
+        private void lineShape6_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.A);
+            mysound.Play();
+        }
+
+        private void lineShape7_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.AS);
+            mysound.Play();
+        }
+
+        private void lineShape8_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.B);
+            mysound.Play();
+        }
+
+        private void lineShape9_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C);
+            mysound.Play();
+        }
+
+        private void lineShape10_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.CS);
+            mysound.Play();
+        }
+
+        private void lineShape11_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.D);
+            mysound.Play();
+        }
+
+        private void lineShape12_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.DS);
+            mysound.Play();
+        }
+
+        private void lineShape13_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E);
+            mysound.Play();
+        }
+
+        private void lineShape14_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F);
+            mysound.Play();
+        }
+
+        private void lineShape15_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.FS2);
+            mysound.Play();
+        }
+
+        private void lineShape16_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.G);
+            mysound.Play();
+        }
+
+        private void lineShape17_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.GS2);
+            mysound.Play();
+        }
+
+        private void lineShape18_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.A);
+            mysound.Play();
+        }
+
+        private void lineShape19_MouseHover(object sender, EventArgs e)
+        {
+
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.AS2);
+            mysound.Play();
+        }
+
+        private void lineShape20_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.B);
+            mysound.Play();
+        }
+
+        private void lineShape21_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C);
+            mysound.Play();
+        }
+
+        private void lineShape23_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C);
+            mysound.Play();
+        }
+
+        private void lineShape24_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.CS3);
+            mysound.Play();
+        }
+
+        private void lineShape25_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.DS2);
+            mysound.Play();
+        }
+
+        private void lineShape26_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.DS3);
+            mysound.Play();
+        }
+
+        private void lineShape27_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E);
+            mysound.Play();
+        }
+
+        private void lineShape28_MouseHover(object sender, EventArgs e)
+        {
+
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F);
+            mysound.Play();
+        }
+
+        private void lineShape29_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.FS3);
+            mysound.Play();
+        }
+
+        private void lineShape32_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.G);
+            mysound.Play();
+        }
+
+        private void lineShape30_MouseHover(object sender, EventArgs e)
+        {
+
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.GS3);
+            mysound.Play();
+        }
+
+        private void lineShape33_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.A);
+            mysound.Play();
+        }
+
+        private void lineShape34_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.AS2);
+            mysound.Play();
+        }
+
+        private void lineShape31_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.BS2);
+            mysound.Play();
+        }
+
+        private void lineShape35_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.BS2);
+            mysound.Play();
+        }
+
+        private void lineShape37_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.C);
+            mysound.Play();
+        }
+
+        private void lineShape36_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.CS2);
+            mysound.Play();
+        }
+
+        private void lineShape38_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.D);
+            mysound.Play();
+        }
+
+        private void lineShape39_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.DS4);
+            mysound.Play();
+        }
+
+        private void lineShape40_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E);
+            mysound.Play();
+        }
+
+        private void lineShape41_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F61);
+            mysound.Play();
+        }
+
+        private void lineShape42_MouseHover(object sender, EventArgs e)
+        {
+            SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.F71);
+            mysound.Play();
+        }
+
           
     }
 }
