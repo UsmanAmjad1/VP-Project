@@ -371,6 +371,15 @@ namespace ssds.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        internal static System.IO.UnmanagedMemoryStream CP1 {
+            get {
+                return ResourceManager.GetStream("CP1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         internal static System.IO.UnmanagedMemoryStream CS {
             get {
                 return ResourceManager.GetStream("CS", resourceCulture);
@@ -911,6 +920,15 @@ namespace ssds.Properties {
             get {
                 object obj = ResourceManager.GetObject("IMG_0158", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream mcp1 {
+            get {
+                return ResourceManager.GetStream("mcp1", resourceCulture);
             }
         }
         

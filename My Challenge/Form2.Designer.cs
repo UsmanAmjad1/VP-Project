@@ -736,6 +736,7 @@
             this.lineShape86.Y1 = 189;
             this.lineShape86.Y2 = 192;
             this.lineShape86.Click += new System.EventHandler(this.lineShape86_Click);
+            this.lineShape86.MouseHover += new System.EventHandler(this.lineShape86_MouseHover);
             // 
             // lineShape85
             // 
@@ -746,6 +747,7 @@
             this.lineShape85.Y1 = 190;
             this.lineShape85.Y2 = 190;
             this.lineShape85.Click += new System.EventHandler(this.lineShape85_Click);
+            this.lineShape85.MouseHover += new System.EventHandler(this.lineShape85_MouseHover);
             // 
             // lineShape84
             // 
@@ -756,6 +758,7 @@
             this.lineShape84.Y1 = 192;
             this.lineShape84.Y2 = 192;
             this.lineShape84.Click += new System.EventHandler(this.lineShape84_Click);
+            this.lineShape84.MouseHover += new System.EventHandler(this.lineShape84_MouseHover);
             // 
             // lineShape83
             // 
@@ -766,6 +769,7 @@
             this.lineShape83.Y1 = 192;
             this.lineShape83.Y2 = 192;
             this.lineShape83.Click += new System.EventHandler(this.lineShape83_Click);
+            this.lineShape83.MouseHover += new System.EventHandler(this.lineShape83_MouseHover);
             // 
             // lineShape82
             // 
@@ -776,6 +780,7 @@
             this.lineShape82.Y1 = 193;
             this.lineShape82.Y2 = 193;
             this.lineShape82.Click += new System.EventHandler(this.lineShape82_Click);
+            this.lineShape82.MouseHover += new System.EventHandler(this.lineShape82_MouseHover);
             // 
             // lineShape81
             // 
@@ -786,6 +791,7 @@
             this.lineShape81.Y1 = 194;
             this.lineShape81.Y2 = 194;
             this.lineShape81.Click += new System.EventHandler(this.lineShape81_Click);
+            this.lineShape81.MouseHover += new System.EventHandler(this.lineShape81_MouseHover);
             // 
             // lineShape80
             // 
@@ -796,6 +802,7 @@
             this.lineShape80.Y1 = 194;
             this.lineShape80.Y2 = 194;
             this.lineShape80.Click += new System.EventHandler(this.lineShape80_Click);
+            this.lineShape80.MouseHover += new System.EventHandler(this.lineShape80_MouseHover);
             // 
             // lineShape79
             // 
@@ -806,6 +813,7 @@
             this.lineShape79.Y1 = 195;
             this.lineShape79.Y2 = 195;
             this.lineShape79.Click += new System.EventHandler(this.lineShape79_Click);
+            this.lineShape79.MouseHover += new System.EventHandler(this.lineShape79_MouseHover);
             // 
             // lineShape78
             // 
@@ -816,6 +824,7 @@
             this.lineShape78.Y1 = 196;
             this.lineShape78.Y2 = 196;
             this.lineShape78.Click += new System.EventHandler(this.lineShape78_Click);
+            this.lineShape78.MouseHover += new System.EventHandler(this.lineShape78_MouseHover);
             // 
             // lineShape77
             // 
@@ -826,6 +835,7 @@
             this.lineShape77.Y1 = 195;
             this.lineShape77.Y2 = 195;
             this.lineShape77.Click += new System.EventHandler(this.lineShape77_Click);
+            this.lineShape77.MouseHover += new System.EventHandler(this.lineShape77_MouseHover);
             // 
             // lineShape76
             // 
@@ -836,6 +846,7 @@
             this.lineShape76.Y1 = 197;
             this.lineShape76.Y2 = 197;
             this.lineShape76.Click += new System.EventHandler(this.lineShape76_Click);
+            this.lineShape76.MouseHover += new System.EventHandler(this.lineShape76_MouseHover);
             // 
             // lineShape75
             // 
@@ -846,6 +857,7 @@
             this.lineShape75.Y1 = 198;
             this.lineShape75.Y2 = 198;
             this.lineShape75.Click += new System.EventHandler(this.lineShape75_Click);
+            this.lineShape75.MouseHover += new System.EventHandler(this.lineShape75_MouseHover);
             // 
             // lineShape74
             // 
@@ -856,6 +868,7 @@
             this.lineShape74.Y1 = 199;
             this.lineShape74.Y2 = 199;
             this.lineShape74.Click += new System.EventHandler(this.lineShape74_Click);
+            this.lineShape74.MouseHover += new System.EventHandler(this.lineShape74_MouseHover);
             // 
             // lineShape73
             // 
@@ -866,6 +879,7 @@
             this.lineShape73.Y1 = 199;
             this.lineShape73.Y2 = 199;
             this.lineShape73.Click += new System.EventHandler(this.lineShape73_Click);
+            this.lineShape73.MouseHover += new System.EventHandler(this.lineShape73_MouseHover);
             // 
             // lineShape72
             // 
@@ -876,6 +890,7 @@
             this.lineShape72.Y1 = 199;
             this.lineShape72.Y2 = 199;
             this.lineShape72.Click += new System.EventHandler(this.lineShape72_Click);
+            this.lineShape72.MouseHover += new System.EventHandler(this.lineShape72_MouseHover);
             // 
             // lineShape71
             // 
@@ -886,6 +901,7 @@
             this.lineShape71.Y1 = 199;
             this.lineShape71.Y2 = 199;
             this.lineShape71.Click += new System.EventHandler(this.lineShape71_Click);
+            this.lineShape71.MouseHover += new System.EventHandler(this.lineShape71_MouseHover);
             // 
             // lineShape70
             // 
@@ -896,6 +912,7 @@
             this.lineShape70.Y1 = 199;
             this.lineShape70.Y2 = 199;
             this.lineShape70.Click += new System.EventHandler(this.lineShape70_Click);
+            this.lineShape70.MouseHover += new System.EventHandler(this.lineShape70_MouseHover);
             // 
             // lineShape69
             // 
@@ -906,6 +923,7 @@
             this.lineShape69.Y1 = 199;
             this.lineShape69.Y2 = 199;
             this.lineShape69.Click += new System.EventHandler(this.lineShape69_Click);
+            this.lineShape69.MouseHover += new System.EventHandler(this.lineShape69_MouseHover);
             // 
             // lineShape68
             // 
@@ -916,6 +934,7 @@
             this.lineShape68.Y1 = 199;
             this.lineShape68.Y2 = 199;
             this.lineShape68.Click += new System.EventHandler(this.lineShape68_Click);
+            this.lineShape68.MouseHover += new System.EventHandler(this.lineShape68_MouseHover);
             // 
             // lineShape67
             // 
@@ -926,6 +945,7 @@
             this.lineShape67.Y1 = 180;
             this.lineShape67.Y2 = 169;
             this.lineShape67.Click += new System.EventHandler(this.lineShape67_Click);
+            this.lineShape67.MouseHover += new System.EventHandler(this.lineShape67_MouseHover);
             // 
             // lineShape66
             // 
@@ -936,6 +956,7 @@
             this.lineShape66.Y1 = 181;
             this.lineShape66.Y2 = 181;
             this.lineShape66.Click += new System.EventHandler(this.lineShape66_Click);
+            this.lineShape66.MouseHover += new System.EventHandler(this.lineShape66_MouseHover);
             // 
             // lineShape65
             // 
@@ -943,9 +964,10 @@
             this.lineShape65.Name = "lineShape65";
             this.lineShape65.X1 = 815;
             this.lineShape65.X2 = 853;
-            this.lineShape65.Y1 = 181;
-            this.lineShape65.Y2 = 181;
+            this.lineShape65.Y1 = 182;
+            this.lineShape65.Y2 = 182;
             this.lineShape65.Click += new System.EventHandler(this.lineShape65_Click);
+            this.lineShape65.MouseHover += new System.EventHandler(this.lineShape65_MouseHover);
             // 
             // lineShape64
             // 
@@ -956,6 +978,7 @@
             this.lineShape64.Y1 = 181;
             this.lineShape64.Y2 = 181;
             this.lineShape64.Click += new System.EventHandler(this.lineShape64_Click);
+            this.lineShape64.MouseHover += new System.EventHandler(this.lineShape64_MouseHover);
             // 
             // lineShape63
             // 
@@ -966,6 +989,7 @@
             this.lineShape63.Y1 = 182;
             this.lineShape63.Y2 = 182;
             this.lineShape63.Click += new System.EventHandler(this.lineShape63_Click);
+            this.lineShape63.MouseHover += new System.EventHandler(this.lineShape63_MouseHover);
             // 
             // lineShape62
             // 
@@ -976,6 +1000,7 @@
             this.lineShape62.Y1 = 183;
             this.lineShape62.Y2 = 183;
             this.lineShape62.Click += new System.EventHandler(this.lineShape62_Click);
+            this.lineShape62.MouseHover += new System.EventHandler(this.lineShape62_MouseHover);
             // 
             // lineShape61
             // 
@@ -986,6 +1011,7 @@
             this.lineShape61.Y1 = 183;
             this.lineShape61.Y2 = 183;
             this.lineShape61.Click += new System.EventHandler(this.lineShape61_Click);
+            this.lineShape61.MouseHover += new System.EventHandler(this.lineShape61_MouseHover);
             // 
             // lineShape60
             // 
@@ -996,6 +1022,7 @@
             this.lineShape60.Y1 = 184;
             this.lineShape60.Y2 = 184;
             this.lineShape60.Click += new System.EventHandler(this.lineShape60_Click);
+            this.lineShape60.MouseHover += new System.EventHandler(this.lineShape60_MouseHover);
             // 
             // lineShape59
             // 
@@ -1006,6 +1033,7 @@
             this.lineShape59.Y1 = 185;
             this.lineShape59.Y2 = 185;
             this.lineShape59.Click += new System.EventHandler(this.lineShape59_Click);
+            this.lineShape59.MouseHover += new System.EventHandler(this.lineShape59_MouseHover);
             // 
             // lineShape58
             // 
@@ -1016,6 +1044,7 @@
             this.lineShape58.Y1 = 185;
             this.lineShape58.Y2 = 185;
             this.lineShape58.Click += new System.EventHandler(this.lineShape58_Click);
+            this.lineShape58.MouseHover += new System.EventHandler(this.lineShape58_MouseHover);
             // 
             // lineShape57
             // 
@@ -1026,6 +1055,7 @@
             this.lineShape57.Y1 = 187;
             this.lineShape57.Y2 = 187;
             this.lineShape57.Click += new System.EventHandler(this.lineShape57_Click);
+            this.lineShape57.MouseHover += new System.EventHandler(this.lineShape57_MouseHover);
             // 
             // lineShape56
             // 
@@ -1036,6 +1066,7 @@
             this.lineShape56.Y1 = 187;
             this.lineShape56.Y2 = 187;
             this.lineShape56.Click += new System.EventHandler(this.lineShape56_Click);
+            this.lineShape56.MouseHover += new System.EventHandler(this.lineShape56_MouseHover);
             // 
             // lineShape55
             // 
@@ -1046,6 +1077,7 @@
             this.lineShape55.Y1 = 187;
             this.lineShape55.Y2 = 187;
             this.lineShape55.Click += new System.EventHandler(this.lineShape55_Click);
+            this.lineShape55.MouseHover += new System.EventHandler(this.lineShape55_MouseHover);
             // 
             // lineShape54
             // 
@@ -1056,6 +1088,7 @@
             this.lineShape54.Y1 = 199;
             this.lineShape54.Y2 = 199;
             this.lineShape54.Click += new System.EventHandler(this.lineShape54_Click);
+            this.lineShape54.MouseHover += new System.EventHandler(this.lineShape54_MouseHover);
             // 
             // lineShape53
             // 
@@ -1066,6 +1099,7 @@
             this.lineShape53.Y1 = 186;
             this.lineShape53.Y2 = 185;
             this.lineShape53.Click += new System.EventHandler(this.lineShape53_Click);
+            this.lineShape53.MouseHover += new System.EventHandler(this.lineShape53_MouseHover);
             // 
             // lineShape52
             // 
@@ -1076,6 +1110,7 @@
             this.lineShape52.Y1 = 188;
             this.lineShape52.Y2 = 187;
             this.lineShape52.Click += new System.EventHandler(this.lineShape52_Click);
+            this.lineShape52.MouseHover += new System.EventHandler(this.lineShape52_MouseHover);
             // 
             // lineShape51
             // 
@@ -1086,6 +1121,7 @@
             this.lineShape51.Y1 = 186;
             this.lineShape51.Y2 = 186;
             this.lineShape51.Click += new System.EventHandler(this.lineShape51_Click);
+            this.lineShape51.MouseHover += new System.EventHandler(this.lineShape51_MouseHover);
             // 
             // lineShape49
             // 
@@ -1096,6 +1132,7 @@
             this.lineShape49.Y1 = 187;
             this.lineShape49.Y2 = 187;
             this.lineShape49.Click += new System.EventHandler(this.lineShape49_Click);
+            this.lineShape49.MouseHover += new System.EventHandler(this.lineShape49_MouseHover);
             // 
             // lineShape48
             // 
@@ -1106,6 +1143,7 @@
             this.lineShape48.Y1 = 187;
             this.lineShape48.Y2 = 187;
             this.lineShape48.Click += new System.EventHandler(this.lineShape48_Click);
+            this.lineShape48.MouseHover += new System.EventHandler(this.lineShape48_MouseHover);
             // 
             // lineShape47
             // 
@@ -1116,6 +1154,7 @@
             this.lineShape47.Y1 = 187;
             this.lineShape47.Y2 = 187;
             this.lineShape47.Click += new System.EventHandler(this.lineShape47_Click);
+            this.lineShape47.MouseHover += new System.EventHandler(this.lineShape47_MouseHover);
             // 
             // lineShape50
             // 
@@ -1135,6 +1174,7 @@
             this.lineShape46.Y1 = 188;
             this.lineShape46.Y2 = 188;
             this.lineShape46.Click += new System.EventHandler(this.lineShape46_Click);
+            this.lineShape46.MouseHover += new System.EventHandler(this.lineShape46_MouseHover);
             // 
             // lineShape45
             // 

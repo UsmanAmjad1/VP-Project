@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Media;
+using System.IO;
 
 
 
@@ -366,13 +367,20 @@ namespace ssds
             this.Close();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+      
+
         private void button55_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)Keys.A)
-                {
-                    SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
-                    mysound.Play();
-                }
+            {
+                SoundPlayer s = new SoundPlayer(ssds.Properties.Resources.CP1);
+                s.Play();
+            }
             if (e.KeyChar == (char)Keys.B)
             {
                 SoundPlayer mysound = new SoundPlayer(Properties.Resources.d3);
@@ -393,7 +401,7 @@ namespace ssds
 
             }
 
-           
+
 
             if (e.KeyChar == (char)Keys.E)
             {
@@ -538,20 +546,46 @@ namespace ssds
                 SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_26);
                 mysound.Play();
 
-                
+
             }
+           
+        }
+
+        private void button55_Click(object sender, EventArgs e)
+        {
+
+        }
+
+      
+
+        
+
+      
+
+      
+
+        
+       
+        
         }
 
        
-        }
-        
         
 
-       
+      
 
-       
+        
 
     }
+
+        
+        
+
+       
+
+       
+
+    
       
 
 

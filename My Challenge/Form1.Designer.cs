@@ -693,12 +693,13 @@
             // 
             // button55
             // 
-            this.button55.Location = new System.Drawing.Point(2, 12);
+            this.button55.Location = new System.Drawing.Point(77, 11);
             this.button55.Name = "button55";
             this.button55.Size = new System.Drawing.Size(75, 23);
             this.button55.TabIndex = 110;
-            this.button55.Text = "button55";
+            this.button55.Text = "Keyboard";
             this.button55.UseVisualStyleBackColor = true;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
             this.button55.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.button55_KeyPress);
             // 
             // Form1
@@ -766,6 +767,7 @@
             this.Name = "Form1";
             this.Text = "Piano";
             this.TransparencyKey = System.Drawing.Color.White;
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

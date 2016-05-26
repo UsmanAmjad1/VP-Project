@@ -598,4 +598,10 @@
   <data name="String4" xml:space="preserve">
     <value />
   </data>
+  <data name="CP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CP1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mcp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mcp1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
