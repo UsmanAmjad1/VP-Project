@@ -16,13 +16,9 @@ namespace ssds
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form1 frm = new Form1();
-            frm.Show();
-        }
+        
 
-      
+      // ********************* Open The Piano *********************
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -30,14 +26,14 @@ namespace ssds
             frm.Show();
             this.Hide();
         }
-
+        //***************** Open The Guitar ********************
         private void button1_Click_1(object sender, EventArgs e)
         {
             Form2 frm = new Form2();
             frm.Show();
             this.Hide();
         }
-
+         // ********************* Exit Application *******************
         private void button3_Click(object sender, EventArgs e)
         {
             Application.Exit();

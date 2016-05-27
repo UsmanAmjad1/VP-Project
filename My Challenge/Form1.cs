@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.IO;
 using System.Data;
 using System.Drawing;
 using System.Linq;
@@ -25,6 +24,7 @@ namespace ssds
             InitializeComponent();
         }
 
+       // ********************** mouse control***************************
         private void button1_Click(object sender, EventArgs e)
         {
             SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
@@ -360,6 +360,7 @@ namespace ssds
             mysound.Play();
 
         }
+        // ********** Exit piano *************
 
         private void button54_Click(object sender, EventArgs e)
         {
@@ -373,16 +374,21 @@ namespace ssds
 
         }
 
-      
+      // **************************************** KeyBoard Control**************************************
 
         private void button55_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if(e.KeyChar==(char)Keys.A)
+
+            if (e.KeyChar == (char)Keys.D9)
             {
-                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.CP1);
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.E);
                 mysound.Play();
             }
-                
+            if (e.KeyChar == (char)Keys.A)
+            {
+                SoundPlayer mysound = new SoundPlayer(Properties.Resources.c1);
+                mysound.Play();
+            }
             if (e.KeyChar == (char)Keys.B)
             {
                 SoundPlayer mysound = new SoundPlayer(Properties.Resources.d3);
@@ -403,7 +409,7 @@ namespace ssds
 
             }
 
-           
+
 
             if (e.KeyChar == (char)Keys.E)
             {
@@ -548,23 +554,30 @@ namespace ssds
                 SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_26);
                 mysound.Play();
 
-                
+
             }
+
+
+
+            }
+
+      
+            
             
            
         }
 
-        private void button55_Click(object sender, EventArgs e)
-        {
+}
 
-        }
+       
+       
 
       
       
-              }
+              
         
 
-                  }
+                  
 
         
         

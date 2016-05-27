@@ -18,6 +18,8 @@ namespace ssds
             InitializeComponent();
         }
 
+        // *************** Exit Piano ****************
+
         private void button1_Click(object sender, EventArgs e)
         {
             MainForm frm = new MainForm();

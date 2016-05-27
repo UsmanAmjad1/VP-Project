@@ -699,7 +699,6 @@
             this.button55.TabIndex = 110;
             this.button55.Text = "Keyboard";
             this.button55.UseVisualStyleBackColor = true;
-            this.button55.Click += new System.EventHandler(this.button55_Click);
             this.button55.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.button55_KeyPress);
             // 
             // Form1
