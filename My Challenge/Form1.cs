@@ -377,11 +377,12 @@ namespace ssds
 
         private void button55_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == (char)Keys.A)
+            if(e.KeyChar==(char)Keys.A)
             {
-                SoundPlayer s = new SoundPlayer(ssds.Properties.Resources.CP1);
-                s.Play();
+                SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.CP1);
+                mysound.Play();
             }
+                
             if (e.KeyChar == (char)Keys.B)
             {
                 SoundPlayer mysound = new SoundPlayer(Properties.Resources.d3);
@@ -402,7 +403,7 @@ namespace ssds
 
             }
 
-
+           
 
             if (e.KeyChar == (char)Keys.E)
             {
@@ -547,8 +548,9 @@ namespace ssds
                 SoundPlayer mysound = new SoundPlayer(ssds.Properties.Resources.c_26);
                 mysound.Play();
 
-
+                
             }
+            
            
         }
 
@@ -558,26 +560,11 @@ namespace ssds
         }
 
       
-
-        
-
       
-
-      
-
-        
-       
-        
-        }
-
-       
+              }
         
 
-      
-
-        
-
-    }
+                  }
 
         
         

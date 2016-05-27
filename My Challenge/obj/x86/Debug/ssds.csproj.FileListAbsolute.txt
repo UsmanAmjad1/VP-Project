@@ -21,4 +21,3 @@ D:\VP-Project\My Challenge\obj\x86\Debug\ssds.Properties.Resources.resources
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.csproj.GenerateResource.Cache
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.exe
 D:\VP-Project\My Challenge\obj\x86\Debug\ssds.pdb
-D:\VP-Project\My Challenge\obj\x86\Debug\ssds.csprojResolveAssemblyReference.cache
